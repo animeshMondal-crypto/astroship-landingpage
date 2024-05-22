@@ -1,8 +1,5 @@
 import Link from "next/link";
 import React from "react";
-import { FaReact } from "react-icons/fa";
-import { RiSvelteFill, RiTailwindCssFill } from "react-icons/ri";
-import { SiAlpinedotjs, SiVercel, SiAstro } from "react-icons/si";
 
 function Cta() {
   return (
